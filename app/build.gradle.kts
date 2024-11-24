@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mynotes"
+    namespace = "com.example.tasklist"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.mynotes"
+        applicationId = "com.example.tasklist"
         minSdk = 21
         targetSdk = 34
         versionCode = 1

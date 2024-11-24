@@ -1,11 +1,3 @@
 <resources>
-    <string name="app_name">Personal Organizer</string>
-    <string name="title_hint">Название</string>
-    <string name="description_hint">Описание</string>
-    <string name="add_button_text">Добавить</string>
-    <string name="save_button_text">Сохранить</string>
-    <string name="edit_button_text">Редактировать</string>
-    <string name="prev_note">Предыдущая заметка</string>
-    <string name="next_note">Следующая заметка</string>
-    <string name="show_last_note">Показать последнюю заметку</string>
+    <string name="app_name">TaskList</string>
 </resources>

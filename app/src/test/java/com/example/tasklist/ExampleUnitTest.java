@@ -1,4 +1,4 @@
-package com.example.mynotes;
+package com.example.tasklist;
 
 import org.junit.Test;
 
