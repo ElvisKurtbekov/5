@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="noteTitle" type="id"/>
+    <item name="noteDescription" type="id"/>
+    <item name="addButton" type="id"/>
+    <item name="saveButton" type="id"/>
+    <item name="prevNoteButton" type="id"/>
+    <item name="nextNoteButton" type="id"/>
+    <item name="showNoteButton" type="id"/>
+</resources>
